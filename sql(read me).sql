@@ -1,5 +1,5 @@
 
-// sql
+/* sql*/
    create databese users;
 
    use users;
